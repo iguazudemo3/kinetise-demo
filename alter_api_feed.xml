@@ -1,0 +1,42 @@
+﻿<rss xmlns:k="http://kinetise.com">
+    <channel>
+        <item>
+            <type><![CDATA[ Category ]]></type>
+            <name><![CDATA[ Pizza ]]></name>
+        </item>
+        <item>
+            <type><![CDATA[ Entry ]]></type>
+            <name><![CDATA[ Margherita ]]></name>
+            <price><![CDATA[ 16.00$ ]]></price>
+            <image>https://s-media-cache-ak0.pinimg.com/736x/72/d1/24/72d1241c833e00aedcfa2e532c81c1bc.jpg</image>
+        </item>
+        <item>
+            <type><![CDATA[ Entry ]]></type>
+            <name><![CDATA[ Pepperoni ]]></name>
+            <price><![CDATA[ 20.00$ ]]></price>
+            <image>http://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/02/p3.jpeg</image>
+        </item>
+        <item>
+            <type><![CDATA[ Entry ]]></type>
+            <name><![CDATA[ Hawaiaan ]]></name>
+            <price><![CDATA[ 24.00$ ]]></price>
+            <image>https://somefoodsareok.files.wordpress.com/2013/07/hawaiian-pizza1.jpg</image>
+        </item>
+        <item>
+            <type><![CDATA[ Category ]]></type>
+            <name><![CDATA[ Drink ]]></name>
+        </item>
+        <item>
+            <type><![CDATA[ Entry ]]></type>
+            <name><![CDATA[ Caffe Latte ]]></name>
+            <price><![CDATA[ 8.00$ ]]></price>
+            <image>http://www.minimoka.es/wp-content/uploads/2012/07/caffe_latte.jpg</image>
+        </item>
+        <item>
+            <type><![CDATA[ Entry ]]></type>
+            <name><![CDATA[ Orange Juice ]]></name>
+            <price><![CDATA[ 5.00$ ]]></price>
+            <image>http://vid.alarabiya.net/images/2013/11/06/b8a369a5-9cab-46b8-b44b-9eda8c765236/b8a369a5-9cab-46b8-b44b-9eda8c765236_4x3_690x515.jpg</image>
+        </item>
+    </channel>
+</rss>
